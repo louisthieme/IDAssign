@@ -18,7 +18,7 @@ Description:
 
 SEEDS available (std::string): 
 
-1: &emsp;NUMERICAL_SEED	<tab>{ "0123456789" }; <br/>
+1: &emsp;NUMERICAL_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "0123456789" }; <br/>
 2: &emsp;LOWER_ALPHABET_EN_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyz" };<br/>
 3: &emsp;UPPER_ALPHABET_EN_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
 4: &emsp;MIXED_ALPHABET_EN_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>

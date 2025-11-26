@@ -16,7 +16,7 @@ LIB		=	LogSys.cpp FileStream.cpp BasicFileIO.cpp
 
 # Add prefix folder
 SOURCE_PREFIX	=	../
-DIRLIB_PREFIX	=	../lib/
+DIRLIB_PREFIX	=	../Lib/
 
 SRC_PREFIX		=	$(addprefix $(SOURCE_PREFIX), $(SRC))
 LIB_PREFIX		=	$(addprefix $(DIRLIB_PREFIX), $(LIB))
@@ -46,4 +46,5 @@ object_files:
 .PHONY: clean
 clean: 
 	del $(SRC_O) $(LIB_O)
+
 

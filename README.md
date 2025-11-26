@@ -26,11 +26,6 @@ SEEDS available (std::string):
 6: &emsp;UPPER_ALPHA_NUMERICAL_EN_SEED &nbsp;&nbsp;&nbsp;&nbsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
 7: &emsp;MIXED_ALPHA_NUMERICAL_EN_SEED &nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
 
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
-
 Max input length for file names etc. = 256 bytes.
 
 Example usage:

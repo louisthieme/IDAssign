@@ -71,9 +71,8 @@ Function descriptions:
 
 Succes():
 
-	Returns false if function has failed. Returns true is function has ended normally.
-
-	Return value: bool true/false
+- Returns false if function has failed. Returns true is function has ended normally.
+- Return value: bool true/false
 
 ---
 

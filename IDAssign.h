@@ -3,9 +3,9 @@
 #include <vector>
 #include <string>
 
-#include "lib/LogSys.h"
-#include "lib/FileStream.h"
-#include "lib/BasicFileIO.h"
+#include "Lib/LogSys.h"
+#include "Lib/FileStream.h"
+#include "Lib/BasicFileIO.h"
 
 namespace IDA
 {
@@ -101,4 +101,5 @@ namespace IDA
 			IDA_IDList.clear();
 		}
 	};
+
 }

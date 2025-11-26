@@ -18,13 +18,13 @@ Description:
 
 SEEDS available (std::string): 
 
-1: NUMERICAL_SEED							{ "0123456789" }; <br/>
-2: LOWER_ALPHABET_EN_SEED					{ "abcdefghijklomnopqrstuvwxyz" };<br/>
-3: UPPER_ALPHABET_EN_SEED					{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
-4: MIXED_ALPHABET_EN_SEED					{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
-5: LOWER_ALPHA_NUMERICAL_EN_SEED			{ "abcdefghijklomnopqrstuvwxyz0123456789" };<br/>
-6: UPPER_ALPHA_NUMERICAL_EN_SEED			{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
-7: MIXED_ALPHA_NUMERICAL_EN_SEED			{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
+1: &emsp;NUMERICAL_SEED							&emsp;&emsp;{ "0123456789" }; <br/>
+2: &emsp;LOWER_ALPHABET_EN_SEED					&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyz" };<br/>
+3: &emsp;UPPER_ALPHABET_EN_SEED					&emsp;&emsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
+4: &emsp;MIXED_ALPHABET_EN_SEED					&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
+5: &emsp;LOWER_ALPHA_NUMERICAL_EN_SEED			&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyz0123456789" };<br/>
+6: &emsp;UPPER_ALPHA_NUMERICAL_EN_SEED			&emsp;&emsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
+7: &emsp;MIXED_ALPHA_NUMERICAL_EN_SEED			&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
 
 Max input length for file names etc. = 256 bytes.
 
@@ -71,8 +71,8 @@ Function descriptions:
 
 Succes():
 
-- Returns false if function has failed. Returns true is function has ended normally.
-- Return value: bool true/false
+	Returns false if function has failed. Returns true is function has ended normally.
+	Return value: bool true/false
 
 ---
 

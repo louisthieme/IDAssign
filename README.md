@@ -19,17 +19,11 @@ Description:
 SEEDS available (std::string): 
 
 1: NUMERICAL_SEED							{ "0123456789" }; 
----
 2: LOWER_ALPHABET_EN_SEED					{ "abcdefghijklomnopqrstuvwxyz" };
----
 3: UPPER_ALPHABET_EN_SEED					{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ" };
----
 4: MIXED_ALPHABET_EN_SEED					{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };
----
 5: LOWER_ALPHA_NUMERICAL_EN_SEED			{ "abcdefghijklomnopqrstuvwxyz0123456789" };
----
 6: UPPER_ALPHA_NUMERICAL_EN_SEED			{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };
----
 7: MIXED_ALPHA_NUMERICAL_EN_SEED			{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };
 
 Max input length for file names etc. = 256 bytes.

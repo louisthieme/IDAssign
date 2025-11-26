@@ -31,7 +31,7 @@ Max input length for file names etc. = 256 bytes.
 Example usage:
 
 ----------------------------------
-
+```
 #include "IDAssign.h"
 
 int main()
@@ -52,6 +52,7 @@ int main()
 
 return 0;
 }
+```
 
 ----------------------------------
 

@@ -18,13 +18,13 @@ Description:
 
 SEEDS available (std::string): 
 
-1: &emsp;NUMERICAL_SEED	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;{ "0123456789" }; <br/>
-2: &emsp;LOWER_ALPHABET_EN_SEED	&emsp;&emsp;&emsp;&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyz" };<br/>
-3: &emsp;UPPER_ALPHABET_EN_SEED	&emsp;&emsp;&emsp;&emsp;&emsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
-4: &emsp;MIXED_ALPHABET_EN_SEED	&emsp;&emsp;&emsp;&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
-5: &emsp;LOWER_ALPHA_NUMERICAL_EN_SEED&emsp;&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyz0123456789" };<br/>
-6: &emsp;UPPER_ALPHA_NUMERICAL_EN_SEED&emsp;&emsp;&emsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
-7: &emsp;MIXED_ALPHA_NUMERICAL_EN_SEED&emsp;&emsp;&emsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
+1: &emsp;NUMERICAL_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "0123456789" }; <br/>
+2: &emsp;LOWER_ALPHABET_EN_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyz" };<br/>
+3: &emsp;UPPER_ALPHABET_EN_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
+4: &emsp;MIXED_ALPHABET_EN_SEED	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" };<br/>
+5: &emsp;LOWER_ALPHA_NUMERICAL_EN_SEED&nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyz0123456789" };<br/>
+6: &emsp;UPPER_ALPHA_NUMERICAL_EN_SEED&nbsp;&nbsp;&nbsp;&nbsp;{ "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
+7: &emsp;MIXED_ALPHA_NUMERICAL_EN_SEED&nbsp;&nbsp;&nbsp;&nbsp;{ "abcdefghijklomnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" };<br/>
 
 Max input length for file names etc. = 256 bytes.
 
